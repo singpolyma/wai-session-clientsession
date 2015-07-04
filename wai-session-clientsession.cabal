@@ -31,7 +31,7 @@ library
                 transformers,
                 cereal,
                 clientsession,
-                errors,
+                errors < 2.0,
                 wai-session
 
 source-repository head
